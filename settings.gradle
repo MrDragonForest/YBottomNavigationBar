@@ -1,0 +1,3 @@
+rootProject.name = "DGBottomNavigationBar"
+include ':app'
+include ':bottom-navigation-bar'
